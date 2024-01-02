@@ -5,8 +5,8 @@ libraries some may changed by us.
 
 Group34: Ze Pan zp2073 
 
-​		  Giorgi Merabishvili gm3386 
+​		     Giorgi Merabishvili gm3386 
 
-​		  Jianhao Ge jg7942
+​		     Jianhao Ge jg7942
 
-Vedio link: https://youtu.be/b0BFIrfusCw
+Video link: https://youtu.be/b0BFIrfusCw
